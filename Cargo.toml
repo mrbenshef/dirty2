@@ -1,0 +1,10 @@
+[package]
+name = "dirty2"
+version = "0.1.0"
+authors = ["Ben Sheffield <me@mrbenshef.co.uk>"]
+description = "Fork of the Dirty crate, with a few more features. Holds a value with a dirty flag which is set on writes and cleared on clear()"
+homepage = "https://github.com/mrbenshef/dirty"
+repository = "https://github.com/mrbenshef/dirty"
+readme = "README.md"
+keywords = ["dirty"]
+license = "Apache-2.0"
